@@ -5,7 +5,7 @@
 Projenin Amacı : Öğretmen ve öğrencileri tek bir platform üzerinde buluşturmaktır. 
 Öğretmenlerin sisteme eklediği sorular ile öğrencileri test etmesi ve onlar hakkında hangi konularda eksik olunduğu 
 anlaşılarak destek olunması sağlanmıştır. Bahsi geçen proje C# Form uygulaması olarak
-geliştirilmiş MetroFramework ve DevExpress kullanılmıştır. Veritabanı olarak da Mssql tercih edilmiştir.
+geliştirilmiş MetroFramework ve DevExpress kullanılmıştır. Veritabanı olarak da Mssql tercih edilmiştir
 
 ## Projenin Görselleri : 
 
